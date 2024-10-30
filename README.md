@@ -1,14 +1,13 @@
 # Turtle Hexagons
 
 ## Overview
-A Python-based graphical application that draws hexagonal patterns using the Turtle graphics library.
+A creative Python application that uses Turtle graphics to draw hexagonal patterns, perfect for exploring geometric design.
 
-## Tech Stack
+![Full preview of the page](/preview.PNG)
+
+## 🛠️ Tech Stack
 * `Python`– Programming language
 * `Turtle`– Python library for graphics
 
-### Screenshot
-![Full preview of the page](/preview.PNG)
-
-## License
+## 📜 License
 This project is licensed under the MIT License.
